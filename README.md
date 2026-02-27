@@ -1,68 +1,66 @@
-# javascript-learning
-My JavaScript learning journey during internship / training
-# Banking Logic Projects – Java & JavaScript
+# JavaScript Mini Application Projects
 
-This repository contains my beginner-level programming practice projects built while learning core programming concepts.
+This repository contains practical browser-based applications built using Vanilla JavaScript and DOM manipulation.
 
-The main goal of these projects is to strengthen logical thinking, control flow understanding, and real-world problem solving.
+## Projects Included
 
----
+### 1. Mini Cart System
+Features:
+- Add/remove items dynamically
+- Real-time total calculation
+- Free shipping logic
+- Full UI re-render pattern
 
-## 📌 Concepts Covered
-
-### JavaScript
-- Variables
-- Comparison Operators
-- Logical Operators (&&, ||)
-- if / else if / else
-- switch statement
-- Nested conditions
-- Basic ATM system logic
-
-### Java
-- Methods
-- Scanner input
-- if / else conditions
-- Loops
-- Basic OOP concepts
-- Problem-solving with mathematical logic
+Concepts Demonstrated:
+- DOM manipulation
+- State management using arrays
+- Render function architecture
+- Clean separation of logic and UI
 
 ---
 
-## 🏦 ATM System (JavaScript)
+### 2. Expense Tracker
+Features:
+- Add and delete expenses
+- Duplicate prevention
+- Live total calculation
+- Data-driven rendering
 
-A simple ATM simulation that includes:
-
-- Card security check
-- Balance inquiry
-- Withdraw functionality
-- Deposit functionality
-- Insufficient balance handling
+Concepts Demonstrated:
+- Array-based state storage
+- Dynamic DOM updates
 - Input validation
-- Menu system using switch statement
-
-This project focuses on:
-- Logical flow control
-- Order of condition evaluation
-- Proper use of break statements
-- Real-world scenario implementation
+- Structured function design
 
 ---
 
-## 🎯 Learning Objective
-
-The purpose of this repository is not to build advanced production systems yet, but to:
-
-- Build strong programming fundamentals
-- Improve logical reasoning
-- Practice structured coding
-- Understand how real-world systems work internally
+### 3. Invoice Generator (Web Version)
+Features:
+- Dynamic invoice creation
+- Automatic total calculation
+- Structured output formatting
 
 ---
 
-## 🚀 How to Run
+### 4. Movie Ticketing System (Web Simulation)
+Features:
+- Movie selection logic
+- Ticket quantity handling
+- Dynamic price updates
+- Input validation
 
-### JavaScript
-Make sure Node.js is installed.
+---
 
-Run:
+## Skills Strengthened
+- DOM manipulation
+- State-driven UI rendering
+- Logical thinking
+- Clean function structuring
+- Debugging real-world scenarios
+
+---
+
+## Tech Used
+- HTML
+- CSS
+- Vanilla JavaScript
